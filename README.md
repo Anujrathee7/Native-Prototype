@@ -1,7 +1,7 @@
-#Schedule Management App Prototype
+# Schedule Management App Prototype
 This is a prototype of a schedule management app built using Kivy and KivyMD. The app allows users to view their schedule, add new events, and manage their profile.
 
-#Features
+# Features
 1. Schedule View
 The "Schedule" tab displays the user's schedule with events and their respective timings.
 Each event is represented with an icon and text indicating the event name and time.
